@@ -6,7 +6,7 @@
 
 TicketApp is a support ticket management system that looks like it was designed by Neo himself after he took the red pill and discovered the true nature of customer support. This isn't your grandmother's ticket system, unless your grandmother has excellent taste in UI design.
 
-This is the **React implementation** of TicketApp. Looking for other versions? Check out the [main repository](https://github.com/devhabeeblateef/ticketwebapp) for Vue.js and Twig implementations.
+This is the **React implementation** of TicketApp. 
 
 ### 🎭 Features That'll Make You Go "Whoa!"
 
@@ -83,9 +83,8 @@ This is the **React implementation** of TicketApp. Looking for other versions? C
 This React implementation is part of a multi-framework project. To explore other versions:
 
 - **React Version** (you're here): `https://github.com/devhabeeblateef/ticketwebapp-react`
-- **Vue.js Version**: `https://github.com/devhabeeblateef/ticketwebapp-vue` *(coming soon)*
-- **Twig Version**: `https://github.com/devhabeeblateef/ticketwebapp-twig` *(coming soon)*
-- **Main Repository**: `https://github.com/devhabeeblateef/ticketwebapp` *(with shared assets)*
+- **Vue.js Version**: `https://github.com/devhabeeblateef/ticket-web-app-vue` 
+- **Twig Version**: `https://github.com/devhabeeblateef/ticketwebapp-twig`
 
 Each implementation maintains the exact same:
 - **Layout structure** (wavy hero, glowing circles, card boxes)
